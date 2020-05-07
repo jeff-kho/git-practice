@@ -2,3 +2,4 @@ Hello. My name is Jeff Go.
 What commit means?
 저는 웹 개발자 입니다.
 저는 인천 삽니다.
+저는 영화를 좋아합니다.
